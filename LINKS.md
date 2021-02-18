@@ -199,7 +199,9 @@
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 
 ## 🔤 Linguagens de programação
+* [Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/) - Basic pode ser uma opção de linguagem para se aprender lógica uma vez que foi desenvolvida em alto nível
 * [C](https://pt.cppreference.com/w/) - C é uma linguagem de programação compilada de propósito geral
+* [C++](https://www.cplusplus.com) - C++ é uma linguagem de programação compilada multi-paradigma e de uso geral
 * [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
 * [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs)
 * [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter
@@ -210,6 +212,7 @@
 * [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
+* [Pascal](https://www.freepascal.org/) - Pascal é uma linguagem de programação orientada por objetos
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
 * [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
 * [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem para sistemas rápidos, concorrentes e seguros
