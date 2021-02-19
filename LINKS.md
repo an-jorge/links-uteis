@@ -291,7 +291,6 @@
 * [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
 * [Free Tech Books](https://www.freetechbooks.com) - Livros e ebooks grátis sobre tecnologia
 * [FreeCodeCamp](https://www.freecodecamp.org/) - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos
-* [git - comandos](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Lista de comandos Git
 * [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Apenas um guia prático para começar com Git
 * [Git Explorer](https://gitexplorer.com/) - Encontre os comandos corretos do Git para o que você precisa
 * [GitHub Learning Lab](https://lab.github.com/courses) - Plataforma de estudos do GitHub
