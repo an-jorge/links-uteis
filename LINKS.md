@@ -1,193 +1,177 @@
-## 🖼 Banco de imagens gratuitas
-* [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
-* [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
-* [Cupcake](http://cupcake.nilssonlee.se/) - Imagens gratuitas para uso comercial
-* [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar
-* [FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais
-* [Flickr](https://flickr.com/) - Rede social de fotógrafos
-* [FreeImages](https://pt.freeimages.com/) - Banco de imagens gratuitas
-* [FreePik Stories](https://stories.freepik.com/) - Banco de ilustrações gratuitas
-* [Freerange](https://freerangestock.com/index.php) - Banco de imagens gratuitas
-* [Gratisography](https://gratisography.com/) - Banco de imagens gratuitas
-* [Humaaans](https://www.humaaans.com/) - Ilustrações de humanóides
-* [Icons8](https://icons8.com.br/) - Ícones em diversos estilos
-* [Imgur](https://imgur.com/) - Plataforma com milhões de imagens
-* [IraDesign](https://iradesign.io/illustrations) - Ilustrações editáveis de cores e objetos
-* [Life of Pix](https://www.lifeofpix.com/) - Banco de imagens gratuitas
-* [Little Visuals](https://littlevisuals.co/) - Banco de imagens gratuitas
-* [lorempixel](http://lorempixel.com/) - Banco de imagens para uso como template
-* [ManyPixels](https://www.manypixels.co/gallery/) - Galeria de ilustrações com direito a edição de cores
-* [Morguefile](https://morguefile.com/) - Banco de imagens gratuitas
-* [Nappy](https://www.nappy.co) - Banco de imagens gratuitas (atribuição recomendada)
-* [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas
-* [OpenMoji](https://openmoji.org/) - Banco de emojis para uso
-* [Pexels](https://www.pexels.com/) - Banco de imagens gratuitas
-* [PhotoPin](http://photopin.com/) - Banco de imagens gratuitas no estilo criativo 
-* [Picjumbo](https://picjumbo.com/) - Banco de imagens gratuitas
-* [Picsum](https://picsum.photos/) - Banco de imagens para uso como template
-* [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
-* [Public domain archive](https://www.publicdomainarchive.com/) - Banco de imagens gratuitas
-* [RemixIcon](https://remixicon.com/) - Banco de Ícones para uso gratuito
-* [StockSnap](https://stocksnap.io/) - Banco de imagens gratuitas (não requer atribuição)
-* [unDraw](https://undraw.co/) - Ilustrações livres para usar
-* [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas
-* [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas
-* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
+## 📋 Table of Contents
 
-## 🔧 Ferramentas de desenvolvimento
-* [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
-* [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência
-* [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas
-* [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos
-* [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
-* [Can I email...](https://www.caniemail.com/) - Descubra o que do HTML e CSS pode ser usado em estruturas de e-mail
-* [Can I use...](https://caniuse.com/) - Descubra se você pode usar determinadas tecnologias web
-* [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
-* [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
-* [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
-* [CodeSandbox](https://codesandbox.io/) - Caixa de área para desenvolvedores web
-* [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
-* [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
-* [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
-* [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE](https://www.debuggex.com) - Construa e teste expressões regulares
-* [docsify](https://docsify.js.org/#/) - Crie docs incríveis de projetos
-* [Editor.md](https://pandao.github.io/editor.md/en.html) - Editor Markdown online e open source
-* [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript
-* [Firebase](https://firebase.google.com/?hl=pt-BR) - Desenvolva aplicativos mobile e web incríveis este serviço da Google
-* [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) - Navegador web para desenvolvedores web
-* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR) - Capture páginas inteiras com uma extensão para Chrome
-* [generatedata](http://www.generatedata.com/) - Gerador de dados para testes
-* [GitHub Gist](https://gist.github.com/) - Faça pequenas anotações e pequenos códigos no GitHub Gist
-* [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site
-* [Grader](https://website.grader.com/) - Avaliação de site
-* [How to Center in CSS](http://howtocenterincss.com/) - Gerador de código para divs ou textos que necessitam de centralização
-* [Hyper](https://hyper.is/) - Linha de comando simples, útil e gratuito
-* [Joomla](https://www.joomla.org/) - CMS gratuita
-* [JS Bin](https://jsbin.com/) - Codifique e compartilhe projetos HTML, CSS e JS
-* [JSCompress](https://jscompress.com/) - Conversor de código JS para JS minificado
-* [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online
-* [JSONLint](https://jsonlint.com/) - Ferramenta para validar seu JSON
-* [KeyCDN Tools](https://tools.keycdn.com/) - Faça uma análise das suas aplicações web
-* [Liveweave](https://liveweave.com/) - Codifique projetos HTML, CSS e JS
-* [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
-* [Mapbox](https://www.mapbox.com/) - Mapas e localização para desenvolvedores
-* [Memcached](https://memcached.org/) - Melhore o desempenho de seu website com cache
-* [Mockaroo](https://www.mockaroo.com/) - Gerador de dados para testes
-* [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
-* [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm
-* [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
-* [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJS
-* [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
-* [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
-* [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
-* [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
-* [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII
-* [Telegram](https://telegram.org/) - Mensageiro criptografado
-* [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
-* [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG
-* [W3.org](https://validator.w3.org/) - Validar HTML
-* [WakaTime](https://wakatime.com/) - Gerencie seu tempo de desenvolvimento
-* [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) - Extensão para Chrome com multi-funções
-* [Web.dev](https://web.dev/) - Testar website (criado pela Google)
-* [WebPageTest](https://www.webpagetest.org/) - Testar perfomance de site
-* [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso
-* [WordPress](https://wordpress.org/) - Criação de blogs
-* [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
+- [🎒️ Courses](#️-courses)
+- [👮️ Web security](#️-web-security)
+- [📚 Books](#-books)
+- [🖼 Free stock images](#-free-stock-images)
+- [🔧 Development tools](#-development-tools)
+- [📌 Project management](#-project-management)
+- [📊 Stats for devs](#-stats-for-devs)
+- [📝 IDEs and code editors](#-ides-and-code-editors)
+- [👨‍🎤️ Frontend](#️-frontend)
+- [🔮️ Image editing](#️-image-editing)
+- [🎠 Icon libraries](#-icon-libraries)
+- [☁ IDE Cloud](#-ide-cloud)
+- [🔤 Developer Docs](#-developer-docs)
+- [🏆 Challenges](#-challenges)
+- [🏨 Hosting](#-hosting)
 
-## 🗂 Gerenciamento de projetos
-* [Asana](https://asana.com/pt) - Gerenciamento de trabalho
-* [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
-* [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
-* [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
-* [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
-* [Jira](https://www.atlassian.com/software/jira) - Gerenciador de projetos e monitoramento de tarefas
-* [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
-* [Notion](https://www.notion.so/) - Notas autoadesivas na nuvem e gerenciamento de projetos online
-* [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
-* [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
-* [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
-* [Taiga](https://taiga.io/) - Controle de projetos com equipes através de quadros
-* [Things](https://culturedcode.com/things/) - Gerenciador de tarefas pessoais
-* [Todoist](https://todoist.com/app?lang=pt_BR) - Gerenciamento de projetos pessoais e em equipe
-* [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
-* [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
+## 🎒️ Courses
+* [Balta.io](https://balta.io/carreiras) - Learn frontend, backend and mobile
+* [Css Grid Garden](http://cssgridgarden.com/) - Online tool for Grid Studies (CSS)
+* [Css flex origamid](https://origamid.com/projetos/flexbox-guia-completo/) - How to use flex css
+* [Css grid origamid](https://www.origamid.com/projetos/css-grid-layout-guia-completo/) - How to use grid css
+* [Video Course](https://www.youtube.com/c/CursoemV%C3%ADdeo/playlists) - Free basic courses for beginners
+* [Digital Innovation One](http://digitalinnovation.one/) - Free teaching platform that develops and connects talent
+* [Duolingo](https://www.duolingo.com) - The world's best way to learn a language
+* [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Official Facebook Marketing Courses
+* [Flexbox Defense](http://www.flexboxdefense.com/) - Learn flexbox with a game
+* [Flexbox Froggy](http://flexboxfroggy.com/) - Online tool for studying Flexbox (CSS)
+* [Flukeout](http://flukeout.github.io/) - Online application to learn HTML, CSS in a practical way
+* [FreeCodeCamp](https://www.freecodecamp.org/) - Learn how to code for free and earn portfolio helping nonprofits
+* [Git - commands](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Just a handy guide to get started with Git
+* [Khan Academy](https://pt.khanacademy.org/) - Reputable study platform on gamified learning
+* [Loiane](https://loiane.training/) - Angular, Java, Spring and more...
+* [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Learn) - Learn web development from the professionals
+* [Rocketseat](https://www.rocketseat.com.br/discover) - We boost thousands of devs daily
+* [School of Net](https://www.schoolofnet.com/) - Online School of Technology
+* [Silent Teacher](http://silentteacher.toxicode.fr/) - Learn JavaScript with a game
+* [SoloLearn](https://www.sololearn.com/) - Learn to program for free on mobile or web
+* [Tech Guide - Alura](https://techguide.sh/) - Be a professional in T
+* [Udemy](https://www.udemy.com/) - +100 courses in every topic
+* [W3Schools](https://www.w3schools.com) - Online exercises to practice in numerous languages
 
-## 🆓 Freebies
-* [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Fontes gratuitas
-* [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
-* [Codester Freebies](https://www.codester.com/free/) - Temas e projetos de codificações grátis semanalmente
-* [Freebbble](http://freebbble.com/) - Freebies do Dribbble
-* [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
-* [FundleBundle](https://www.fundlebundle.net/freebies) - Freebies gratuitos
-* [GreenSock](https://greensock.com/examples-showcases) - Showcase de aplicações inspiradoras
-* [HTML5 UP](https://html5up.net/) - Templates gratuitos
-* [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
-* [ThemeForest WordPress Freebies](https://themeforest.net/free/wordpress-themes) - 3 temas premium gratuitos do WordPress mensalmente
-* [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
+## 👮️ Web security
+* [Bugcrowd](https://www.bugcrowd.com) Crowdsourced cybersecurity solution offering vulnerability, bug, and penetration detection.
+* [C.S. university](https://github.com/brootware/awesome-cyber-security-university) - Hacking zero to hero
+* [Ctf time](https://ctftime.org/event/list/upcoming) - List that aggregates CTF events, join and participate
+* [Desec](https://desecsecurity.com/curso/introducao-pentest) - Introduction to hacking and pentesting
+* [Hackerone](https://www.hackerone.com/) - Vulnerability research and bug bounty platform
+* [HackTheBox](https://www.hackthebox.com) - A massive, online cybersecurity training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills.
+* [Portswigger](https://portswigger.net/web-security) - Web hacking course
+* [TryHackMe](https://tryhackme.com) -  A free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
 
-## 📝 IDEs e editores de código
-* [Atom](https://atom.io/) - Editor de código do GitHub
-* [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
-* [Brackets](http://brackets.io/) - Editor de código da Adobe
-* [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
-* [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
-* [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains
-* [NetBeans](https://netbeans.org/) - IDE gratuita da Apache
-* [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz
-* [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
-* [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python
-* [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
-* [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
-* [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
+## 📚 Books
+* [Eloquent JavaScript](https://eloquentjavascript.net/) - Book about JavaScript
+* [Free Tech Books](https://www.freetechbooks.com) - Free technology books and ebooks
+* [GoalKicker](https://goalkicker.com/) - Free programming books
+* [JS: The Right Way](http://jstherightway.org/en-us/) - Guide intended to introduce new developers to JavaScript and help experienced developers learn more about best practices
+* [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Free books, articles and tutorials for beginners who want to program in C
+* [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) - JavaScript book series
+* [zLibrary](https://br1lib.org/) - The largest electronic library in the world
 
-## 🖌 Design Front-end
-* [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
-* [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
-* [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
-* [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
-* [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
-* [Canva](https://www.canva.com/) - Ferramenta de design online
-* [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
-* [Coolors](https://coolors.co/) - Insipire-se. Este site possui diversas palhetas de cores e ainda permite que você monte a sua própria palheta.
-* [Cruip](https://cruip.com/) - Recursos de templates
-* [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Animações CSS prontas para usar
-* [CSS Tricks](https://css-tricks.com/) - Blog com vários tutoriais frontend
-* [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
-* [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
-* [Font Flipper](https://fontflipper.com/) - Ferramenta para testar fontes
-* [FontPair](https://fontpair.co/) - Ferramenta para combinações de fontes
-* [FontSpark](https://fontspark.app/) - Gera fontes aleatórias de uma lista de fontes famosas usadas na web
-* [Foundation](https://foundation.zurb.com/) - Framework responsivo
-* [Framer](https://www.framer.com/) - Ferramenta de criação de interfaces interativas
-* [FreeFrontEnd](https://freefrontend.com/) - Exemplos de códigos, tutoriais e artigos de HTML, CSS, Javascript (Angular, JQuery, React, Vue)
-* [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
-* [Interfacer](https://interfacer.xyz/) - Recursos para criação de interfaces
-* [Interfaces.pro](https://interfaces.pro/) - Inspiração para interfaces
-* [Invision](https://www.invisionapp.com/) - Software de design para projetos
-* [Lottie](https://lottiefiles.com/) - Animações em after effects via json
-* [Luna](https://github.com/OfficialMarinho/luna) - Framework CSS brasileiro
-* [Material-UI](https://material-ui.com/) - Um framework de interface de usuário para React
-* [Mockup](https://mockup.io/about/) - Visualize e colabore no design de aplicativos para dispositivos móveis
-* [Nes.css](https://nostalgic-css.github.io/NES.css/) - Framework CSS estilo NES
-* [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
-* [Normalize CSS](https://necolas.github.io/normalize.css/) - Normaliza estruturas entre navegadores
-* [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
-* [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop
-* [Pure.css](https://purecss.io/) - Framework CSS responsivo
-* [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
-* [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
-* [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
-* [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
-* [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
+## 🖼 Free stock images
+* [500px](https://500px.com/creativecommons) - Free Stock Images
+* [Burst](https://pt.shopify.com/burst) - Shopify ecommerce service image platform
+* [Cupcake](http://cupcake.nilssonlee.se/) - Free images for commercial use
+* [DrawKIT](https://www.drawkit.io/) - Illustrations for anyone to use
+* [FlatIcon](https://www.flaticon.com) - Stock vector icons
+* [Flickr](https://flickr.com/) - Social network of photographers
+* [FreeImages](https://www.freeimages.com/) - Free stock images
+* [FreePik Stories](https://stories.freepik.com/) - Free stock illustrations
+* [Freerange](https://freerangestock.com/index.php) - Free stock images
+* [Glaze](https://www.glazestock.com) - Stock illustration, no copyright
+* [Gratisography](https://gratisography.com/) - Free stock images
+* [Humaaans](https://www.humaaans.com/) - Illustrations of humanoids
+* [Icons8](https://icons8.com) - Icons in different styles
+* [Imgur](https://imgur.com/) - Platform with millions of images
+* [IraDesign](https://iradesign.io/illustrations) - Editable color and object illustrations
+* [Life of Pix](https://www.lifeofpix.com/) - Free Stock Images
+* [Little Visuals](https://littlevisuals.co/) - Free Stock Images
+* [Lorempixel](http://lorempixel.com/) - Stock image for use as template
+* [Lukas Zadam](https://lukaszadam.com/illustrations) - SVG illustrations in different sizes and styles
+* [ManyPixels](https://www.manypixels.co/gallery/) - Illustration gallery with color editing rights
+* [Morguefile](https://morguefile.com/) - Free Stock Images
+* [Nappy](https://www.nappy.co) - Free Stock Images (attribution recommended)
+* [Nos.twnsnd](https://nos.twnsnd.co/) - Public archive of old photos
+* [OpenMoji](https://openmoji.org/) - Bank of emojis for use
+* [Pexels](https://www.pexels.com/) - Free Stock Images
+* [PhotoPin](http://photopin.com/) - Free stock images in creative style
+* [Picjumbo](https://picjumbo.com/) - Free Stock Images
+* [Picsum](https://picsum.photos/) - Stock image for use as a template
+* [Pixabay](http://www.pixabay.com) - Free image bank (no attribution required)
+* [Public domain archive](https://www.publicdomainarchive.com/) - Free Stock Images
+* [RemixIcon](https://remixicon.com/) - Icon Bank for free use
+* [StockSnap](https://stocksnap.io/) - Free stock images (no attribution required)
+* [unDraw](https://undraw.co/) - Free illustrations to use
+* [Unsplash](https://unsplash.com/) - Free Stock Images
+* [Visual Hunt](https://visualhunt.com/) - Free Stock Images
+* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Worldwide Image Bank
 
-## 🖌 Biblioteca de ícones
-* [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
-* [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
-* [Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
-* [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos
-* [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
-* [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
+## 🔧 Development tools
+* [.NET Fiddle](https://dotnetfiddle.net/) - Code and share C# projects online
+* [1PageRank](http://www.1pagerank.com/) - Rank your site in search engines and learn from the competition
+* [Any API](https://any-api.com/) - Free directory with public APIs
+* [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile current CSS code to CSS code with greater coverage of older browsers
+* [Browser diet](https://browserdiet.com/en/) - Performance guide for web development
+* [BrowserLing](https://www.browserling.com) - Test your website in different browsers and different operating systems
+* [Can I email...](https://www.caniemail.com/) - Find out what HTML and CSS can be used in email frameworks
+* [Can I use...](https://caniuse.com/) - Find out if you can use certain web technologies
+* [Carbon](https://carbon.now.sh/) - Share chunks of your code in a visually pleasing way
+* [CloudFlare](https://www.cloudflare.com/) - Free CDN
+* [CMDER](https://cmder.net/) - Simple command line, can run bash and shell commands, alternative to Hyper
+* [CodePen](https://codepen.io/) - Social network of front-end developers
+* [CodeSandbox](https://codesandbox.io/) - Area box for web developers
+* [Connection Strings](https://www.connectionstrings.com/) - Site with connection strings for various platforms
+* [CSS Formatter](https://www.cleancss.com/css-beautify/) - Remove minification and format CSS code
+* [CSS Minifier](https://cssminifier.com/) - CSS to minified CSS code converter
+* [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validate CSS
+* [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE](https://www.debuggex.com) - Build and test regular expressions
+* [docsify](https://docsify.js.org/#/) - Create awesome project docs
+* [EasyForms](https://easyforms.vercel.app/) - Open source API that allows creating contact forms with pure HTML
+* [Editor.md](https://pandao.github.io/editor.md/en.html) - Markdown editor online and open source
+* [ES6console](https://es6console.com/) - JS Compiler for Ecmascript
+* [Firebase](https://firebase.google.com/) - Develop amazing mobile and web apps this Google service
+* [Firefox Developer Edition](https://www.mozilla.org/firefox/developer/) - Web browser for web developers
+* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-BR) - Capture entire pages with a Chrome extension
+* [generatedata](http://www.generatedata.com/) - Test data generator
+* [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without scouring the web
+* [GitHub Gist](https://gist.github.com/) - Make small notes and small code on GitHub Gist
+* [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Check security of a website
+* [Grader](https://website.grader.com/) - Site Rating
+* [Hyper](https://hyper.is/) - Simple, useful and free command line
+* [Invertexto] - text tooling online
+* [Joomla](https://www.joomla.org/) - Free CMS
+* [JS Bin](https://jsbin.com/) - Code and share HTML, CSS and JS projects
+* [JSCompress](https://jscompress.com/) - Converter from JS to Minified JS code
+* [JSON Editor Online](https://jsoneditoronline.org/) - Tool to view and edit JSON files
+* [JSON sort](https://jsonsort.net) - Tool to sort JSON alphabetically
+* [JSFiddle](https://jsfiddle.net/) - Code JS projects online
+* [JSONLint](https://jsonlint.com/) - Tool to validate your JSON
+* [KeyCDN Tools](https://tools.keycdn.com/) - Analyze your web applications
+* [Liveweave](https://liveweave.com/) - Code HTML, CSS and JS projects
+* [Lorem Ipsum](https://br.lipsum.com/) - dummy text generator
+* [Mapbox](https://www.mapbox.com/) - Maps and location for developers
+* [Memcached](https://memcached.org/) - Improve your website performance with caching
+* [Mockaroo](https://www.mockaroo.com/) - Data generator for testing
+* [Mussum Ipsum](https://mussumipsum.com/) - Mock text generator
+* [NextDocs](https://next-docs-xi.vercel.app/) - Open source template for documentation using Next.js and Markdown
+* [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Run a local server with an npm package
+* [Password Generator](https://danieldeev.github.io/password-generator/) - A simple password generator with a focus on security
+* [Photopea](https://www.photopea.com/) - Cloud photoshop editor
+* [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Tool to compile C online
+* [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - ReactJS debug tool
+* [React Hook Form](https://react-hook-form.com/) - Validate your project forms using React or React Native
+* [RESP.app](https://resp.app/) - GUI tool for redis. Save, manipulate and erase data within your redis
+* [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Create relational algebraic expressions from queries
+* [Responsive](http://www.codeorama.com/responsive/) - Test your website's responsiveness
+* [Shields.io](https://shields.io/) - Badge generator for markdown
+* [Simple CSS Media Query Generator](https://simplecss.eu) - Generate media queries for a specific device size
+* [SSL Server Test](https://www.ssllabs.com/ssltest/) - Test SSL of websites
+* [Squoosh] - Compress images using the browser
+* [StreamYard](https://streamyard.com/) - StreamYard is a live streaming studio in your browser
+* [Swagger](https://swagger.io/) - Tool to design, build, document and use RESTful web services
+* [ASCII Table](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Complete table with ASCII characters
+* [Telegram](https://telegram.org/) - Encrypted messenger
+* [W3.org](https://validator.w3.org/) - Validate HTML
+* [WakaTime](https://wakatime.com/) - Manage your development time
+* [Wappalyzer](https://www.wappalyzer.com/) - See the technologies a website is running
+* [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) - Extension for Chrome with multi-functions
+* [Web.dev](https://web.dev/) - Test website (created by Google)
+* [WebPageTest](https://www.webpagetest.org/) - Test site performance
+* [Wedsites](https://wedsites.com/) - List your activities and track your progress
+* [WordPress](https://wordpress.org/) - Creating blogs
+* [XML Sitemaps](https://www.xml-sitemaps.com/) - Sitemaps.xml builder
 
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
@@ -199,7 +183,9 @@
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 
 ## 🔤 Linguagens de programação
+* [Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/) - Basic pode ser uma opção de linguagem para se aprender lógica uma vez que foi desenvolvida em alto nível
 * [C](https://pt.cppreference.com/w/) - C é uma linguagem de programação compilada de propósito geral
+* [C++](https://www.cplusplus.com) - C++ é uma linguagem de programação compilada multi-paradigma e de uso geral
 * [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
 * [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs)
 * [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter
@@ -210,18 +196,33 @@
 * [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado
 * [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
 * [PHP](https://www.php.net/) - A linguagem de programação dominante na web
+* [Pascal](https://www.freepascal.org/) - Pascal é uma linguagem de programação orientada por objetos
 * [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
 * [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
 * [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem para sistemas rápidos, concorrentes e seguros
 * [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
 * [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica)
 
-## 📕 Guia de Estilo
-* [Airbnb - Javascript](https://github.com/airbnb/javascript) - Guia de estilo de código em JavaScript do Airbnb
-* [Airbnb - Ruby](https://github.com/airbnb/ruby) - Guia de estilo de código em Ruby do Airbnb
-* [Google - Boas práticas em Engenharia](https://github.com/google/eng-practices) - Boas práticas de Engenharia utilizadas pelos internos da Google
-* [Google - C++](https://google.github.io/styleguide/cppguide.html) - Guia de estilo de código em C++ do Google
-* [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google
+## 📌 Project management
+* [Asana](https://asana.com/en) - Work management
+* [Azure DevOps](https://azure.microsoft.com/services/devops/) - Project management focused on planning, collaboration and deliverables
+* [Dontpad](http://dontpad.com/) - No-register note tabs
+* [Draw.io](https://www.draw.io/) - Develop amazing mind maps
+* [Evernote](https://evernote.com/intl/) - Sticky notes in the cloud
+* [Google Keep](https://keep.google.com/) - Sticky Notes in the Cloud
+* [Jira](https://www.atlassian.com/software/jira) - Project manager and task monitoring
+* [lucidchart](https://lucidchart.com) - Documentation and team task management
+* [Miro](https://miro.com/) - Real-time collaborative whiteboard
+* [Notion](https://www.notion.so/) - Cloud sticky notes and online project management
+* [Pipefy](https://www.pipefy.com/) - Project Manager (PMS)
+* [Protectedtext](https://www.protectedtext.com/) - Encrypted note tabs with no registration required
+* [Runrun.it](https://runrun.it/) - Project and task manager by boards
+* [Slack](https://slack.com/) - Project management with teams
+* [Taiga](https://taiga.io/) - Project control with teams through boards
+* [Things](https://culturedcode.com/things/) - Personal Task Manager
+* [Todoist](https://todoist.com/app) - Management of personal and team projects
+* [Trello](https://www.trello.com/) - Manage your projects with boards
+* [YouTrack](https://www.jetbrains.com/youtrack/) - Online Project Manager
 
 ##  📁 Desafios
 * [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada
@@ -231,7 +232,7 @@
 * [ChallengeRocket](https://challengerocket.com/) - Desafios de Programação Back-end. IDE integrada
 * [Code Golf - StackExchange](https://codegolf.stackexchange.com/) - Desafios de programação da comunidade para a comunidade, IDE integrada somente pelo Snippet
 * [CodeForces](https://codeforces.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
-* [CodePen Challenges](hhttps://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada
+* [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada
 * [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. IDE integrada
 * [CodeSignal](https://app.codesignal.com/) - Desafios de Programação Back-end. IDE integrada
 * [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada
@@ -256,17 +257,11 @@
 * [TopCoder](https://arena.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada
 * [URI](https://www.urionlinejudge.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada
 
-## 👥 Aumentando o network
-* [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
-* [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum
-* [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord 
-* [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord
-* [Comunidade PerifaCode](https://perifacode.com/) - Comunidade PerifaCode
-* [Comunidade Rocketseat](https://discordapp.com/invite/gCRAFhc) - Comunidade Rocketseat no Discord
-* [Dev.to](https://dev.to/) - Rede social para desenvolvedores
-* [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
-* [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
-* [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
+## 📊 Stats for devs
+* [GitHut 2.0](https://madnight.github.io/githut/#/) - Language statistics from GitHub
+* [GitHut](https://githut.info/) - Language statistics from GitHub
+* [StackOverflow survey](https://insights.stackoverflow.com/survey) - Annual Stack Overflow survey
+
 
 ## 👨‍🏫 Estudos
 * [Alligator](http://alligator.io) - Aulas gratuitas do básico ao avançado
@@ -324,39 +319,88 @@
 * [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Livros, artigos e tutoriais gratuitos para iniciantes que desejam programar em C
 * [You Dont Know JS - Tradução PT-BR](https://github.com/cezaraugusto/You-Dont-Know-JS/) - Série de livros sobre Javascript traduzida para Português Brasileiro
 
-## 🏨 Hosting
-* [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
-* [2FreeHosting](https://www.2freehosting.com/) - Hospedagem de sites internacional grátis
-* [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
-* [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
-* [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
-* [DreamHost](https://www.dreamhost.com/) - Hospedagem de sites de alta disponibilidade
-* [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional
-* [GoDaddy](https://br.godaddy.com/hosting/web-hosting) - Hospedagem de sites internacional
-* [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio
-* [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google
-* [Heroku](https://www.heroku.com/) -  Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure
-* [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
-* [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites
-* [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
-* [iPage](https://www.ipage.com/) - Hospedagem de sites gringa com descontos para anúncios
-* [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail
-* [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático
-* [One.com](https://www.one.com/pt-BR/) - Serviços gerais digitais (incluindo hospedagem de sites)
-* [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas
-* [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
-* [Vercel](https://vercel.com/) -  Hospedagem grátis de sites estáticos e serveless
 
-## 🔓 Pentest
-* [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
-* [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
-* [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
-* [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem
-* [HTTRack](http://www.httrack.com/) - Browser utility
-* [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
-* [NMap](https://nmap.org/) - Scanner de portas de rede
-* [picoCTF](https://picoctf.com/) -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
-* [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
+## 📝 IDEs and code editors
+* [Atom](https://atom.io/) - GitHub Code Editor - Is deprecated and will be archived on December 15 2022 - [Oficial statement](https://github.blog/2022-06-08-sunsetting-atom)
+* [BBEdit](https://www.barebones.com/products/bbedit/) - Code editor for Mac OS
+* [Beekeeper Studio](https://www.beekeeperstudio.io/) - SQL code editor and database manager
+* [Brackets](http://brackets.io/) - Adobe Code Editor
+* [CodeBlocks](http://www.codeblocks.org/) - IDE for C and C++
+* [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ for C/C++ language
+* [Eclipse](https://www.eclipse.org/downloads/) - IBM's free software IDE
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Jetbrains IDE
+* [NeoVim](https://neovim.io/) - Code editor via terminal
+* [NetBeans](https://netbeans.org/) - Free Apache IDE
+* [Notepad++](https://notepad-plus-plus.org/) - Root code editor
+* [PHPStorm](https://www.jetbrains.com/phpstorm/) - PHP specific IDE
+* [PyCharm](https://www.jetbrains.com/pycharm/) - Python-specific IDE
+* [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - Specific IDE for the R Language and its variants
+* [StackEdit](https://stackedit.io/) - Online Markdown Editor
+* [Sublime Text](https://www.sublimetext.com/) - Your license has expired
+* [Visual Studio](https://visualstudio.microsoft.com/en-us/vs/) - Microsoft IDE
+* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft Code Editor
+
+## 👨‍🎤️ Frontend
+* [Animista](animismo.net) - Css animations on demand
+* [Awwwards](https://www.awwwards.com) - Inspiration for interfaces and templates with the latest in interface design
+* [Bootstrap](https://www.getbootstrap.com/) - CSS Framework
+* [BuildBootstrap](https://buildbootstrap.com/) - Create responsive layout for Bootstrap framework in version 3 and 4
+* [Bulma CSS](https://bulma.io/) - Free CSS framework based on Flexbox
+* [Buttons Generator](https://markodenic.com/tools/buttons-generator/) - CSS button styles that can be used in projects
+* [Chart.js](https://www.chartjs.org/) - JavaScript chart creation library
+* [Colors and Fonts](https://www.colorsandfonts.com/) - Features color palettes and typography
+* [Coolors](https://coolors.co/) - Color palettes and build your own
+* [Colors lol](https://colors.lol) - Color palette repository
+* [Cruip](https://cruip.com/) - Template resources
+* [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Ready-to-use CSS animations
+* [CSS Layout](https://csslayout.io/) - Popular layouts and patterns made with CSS
+* [CSS Reference](https://cssreference.io/) - Visual guide to CSS with usage references
+* [CSS Tricks](https://css-tricks.com/) - Blog with several frontend tutorials
+* [DevSamples](https://www.devsamples.com/) - Easy-to-use code examples for HTML, CSS and JavaScript
+* [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Shape generator with border-radius in CSS
+* [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Interactive color palette to harmonize the front
+* [Font Flipper](https://fontflipper.com/) - Tool for testing fonts
+* [FontPair](https://fontpair.co/) - Tool for font combinations
+* [FontSpark](https://fontspark.app/) - Generates random fonts from a list of famous fonts used on the web
+* [Foundation](https://foundation.zurb.com/) - Responsive Framework
+* [Framer](https://www.framer.com/) - Tool for creating interactive interfaces
+* [FreeFrontEnd](https://freefrontend.com/) - Code examples, tutorials and HTML, CSS, Javascript articles (Angular, JQuery, React, Vue)
+* [Grid Layoutit](https://grid.layoutit.com/) - Grid generator for CSS code
+* [HTML DOM](https://htmldom.dev/) - Manage HTML DOM with vanilla JavaScript
+* [Image Color Picker](https://imagecolorpicker.com) - Get the desired image color palette
+* [Interfacer](https://interfacer.xyz/) - Resources for creating interfaces
+* [Interfaces.pro](https://interfaces.pro/) - Inspiration for interfaces
+* [Invision](https://www.invisionapp.com/) - Design software for projects
+* [Lottie](https://lottiefiles.com/) - After effects animations via json
+* [Luna](https://github.com/OfficialMarinho/luna) - Brazilian CSS Framework
+* [Material-UI](https://material-ui.com/) - A UI framework for React
+* [Mockup](https://mockup.io/about/) - View and collaborate on mobile app design
+* [Nes.css](https://nostalgic-css.github.io/NES.css/) - NES-style CSS framework
+* [Neumorphism](https://neumorphism.io/) - Trend border-radius application
+* [Normalize CSS](https://necolas.github.io/normalize.css/) - Normalizes structures across browsers
+* [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Generates the script for a shadow (box-shadow & text-shadow) in CSS based on the shadow settings in Photoshop
+* [Pure.css](https://purecss.io/) - Responsive CSS Framework
+* [SweetAlert2](https://sweetalert2.github.io/) - JavaScript library of responsive and customizable alerts
+* [Tailwind CSS](https://tailwindcss.com/) - CSS styling framework
+* [UI Gradients](https://uigradients.com/) - UI Gradients to use
+
+## 🔮️ Image editing
+* [Adobe XD](https://www.adobe.com/br/products/xd.html) - Design software for projects
+* [Canva](https://www.canva.com/) - Online design tool
+* [Excalidraw](https://excalidraw.com) - Draw diagrams as if they were handmade
+* [Figma](https://www.figma.com/) - Design online projects for apps, software and websites
+* [Gimp](https://www.gimp.org/) - GIMP is an open source program primarily aimed at creating and editing images
+* [Gravit Designer](https://www.designer.io) - Online design tool with vector illustration support
+* [Photoshop](https://www.adobe.com/br/products/photoshop.html) - Incredible images, advanced designs and spectacular artwork
+* [Pixilart](https://www.pixilart.com/draw) - Draw pixel arts online
+* [Pixlr](https://pixlr.com/br/) - Cloud-based image editing tools and utilities suite
+* [Remove.bg](https://www.remove.bg/) - Removes backgrounds from images automatically
+* [Sketch](https://www.sketch.com/) - Development of high quality layouts
+* [Squoosh.app](https://squoosh.app/) - Image compressor and comparator, via browser
+* [Vectorizer](https://www.vectorizer.io/) - Convert images like PNGs, BMPs and JPEGs into vector graphics (SVG, EPS, DXF)
+* [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes and Mind Map
+* [X-Icon Editor](http://www.xiconeditor.com/) - High resolution favicon generator from images
+
 
 ## 🎥 Canais no YouTube
 * [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia
@@ -389,26 +433,101 @@
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
 * [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Canal raíz sobre tecnologia do YouTube
 
-## 🎙 Podcasts
-* [Cabeça de Labs](https://www.cabecadelab.com.br/) - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu
-* [Carreira sem Fronteiras](https://www.carreirasemfronteiras.com.br/) - Podcast com brasileiros que vivem e trabalham no exterior
-* [Codigo Aberto](https://www.b9.com.br/shows/codigoaberto/) - Conversas com os profissionais mais influentes do mercado sobre o futuro da mídia, da tecnologia e da comunicação
-* [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral
-* [DioCast](https://castbox.fm/app/castbox/player/id1323408) - Tecnologia geral do canal DioLinux
-* [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) - Podcast da Rocketseat sobre desenvolvimento
-* [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/) - Ciência, pseudociências e tudo o mais, feito pelo IFUFGRS
-* [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral
-* [IT Visionaries (em inglês)](https://mission.org/itvisionaries/) - Tecnologias quentes e inovação
-* [Lambda3](https://www.lambda3.com.br/tag/podcast/) - Desenvolvimento de software e tecnologia em geral
-* [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I
-* [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
-* [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira 
-* [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
-* [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
-* [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
+## 🎠 Icon libraries
+* [Feather Icons](https://feathericons.com/) - Free and customizable icons
+* [Font Awesome](https://fontawesome.com) - Get vector icons and social logos on your website with Font Awesome
+* [Iconfinder](https://www.iconfinder.com/) - Site containing millions of icons and illustrations
+* [Iconfonts](https://icofont.com) - 2100+ free icons to spice up your creative designs
+* [Iconify Design](https://iconify.design) - 100+ icon collections within a single library
+* [Iconmonstr](https://iconmonstr.com/) - Website with 316 free icon collections
+* [Iconscout](https://iconscout.com/) - Site brings together a large collection of free icons
+* [LineIcons](https://lineicons.com/icons) - 2000+ line icons style
+* [Streamline](https://app.streamlineicons.com) - Library full of icons to use
 
-## 🏢 Business
-* [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes
-* [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
-* [Impulso](https://impulso.network/) - Uma rede gratuita para impulsionar o seu crescimento profissional
-* [Rocket.Chat](https://rocket.chat/) - Chat corporativo open-source e gratuito para equipes
+## ☁ IDE Cloud
+* [CodeAnywhere](https://codeanywhere.com/) - Cloud coding platform
+* [CodeChef](https://www.codechef.com/ide) - Cloud coding platform
+* [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Various online coding platforms
+* [Gitpod](https://www.gitpod.io/) - Online IDE for GitHub
+* [IDE One](https://ideone.com/) - Online IDE for C, Python, Java, etc
+* [My Compiler](https://www.mycompiler.io/) - Online IDE with support for many languages
+* [RStudio.Cloud](https://rstudio.cloud/) - Online IDE for coding in R language with GitHub integration
+* [Repl.it](https://repl.it/) - Cloud coding platform
+* [Stackblitz](https://stackblitz.com) - Cloud coding platform
+
+## 🔤 Developer Docs
+* [Angular](Angular.io) - The modern web developer's plataform
+* [C#](https://docs.microsoft.com/dotnet/csharp/) - Programming language based on C++
+* [Clojure](https://clojure.org/) - Functional programming language (commonly used for AIs)
+* [Dart](https://dart.dev/) - Web-oriented scripting language developed by Google, used in Flutter
+* [Elixir](https://elixir-lang.org/) - Functional programming language running on Erlang virutal machine
+* [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Object-oriented and functional programming language
+* [Fortran](https://www.fortran90.org/) - Programming language developed by IBM, used in computer science and numerical analysis
+* [Go](https://golang.org/) - The Go programming language is an open source project to make programmers more productive
+* [Haskell](https://www.haskell.org/) - Purely functional and statically typed programming language
+* [Java](https://www.java.com/) - Typed, object-oriented and high-performance programming language
+* [JavaScript](http://brasil.js.org) - Constant evolution and growth in the market
+* [Julia](https://julialang.org/) - Open source, high performance programming language for technical computing
+* [Kotlin](https://kotlinlang.org/) - Cross-platform, object-oriented programming language compiles to MVJ
+* [Lua](https://www.lua.org/) - Programming language developed in Brazil, allows procedural programming and OOP
+* [Markdown](https://www.markdownguide.org/) - Markdown language often used to format README files
+* [MatLab](https://www.mathworks.com/help/matlab/) - High-level programming language focusing on calculations and graphing
+* [Pascal](https://docs.freepascal.org/) - Imperative, structured, object-oriented programming language
+* [Perl](https://www.perl.org/) - Cross-platform and dynamic programming language
+* [PHP](https://www.php.net/) - The dominant programming language on the web
+* [Python](https://www.python.org/) - Very suitable for data projects, artificial intelligence and chatbot
+* [R](https://cran.r-project.org/) - Programming language focusing on mathematics, statistics, data science and machine learning
+* [Ruby](https://www.ruby-lang.org/en/) - Multiparadigm programming language and dynamic typing
+* [Rust](https://www.rust-lang.org/) - Language for fast, competitive and secure systems
+* [Swift](https://www.apple.com/swift/) - Created by Apple primarily for iPhone app development
+* [Scala](https://www.scala-lang.org/) - Modern, multi-paradigm, concise, elegant and type-safe programming language
+* [Visual Basic](https://docs.microsoft.com/dotnet/visual-basic/) - Microsoft programming language (with graphical IDE)
+
+## 🏆 Challenges
+* [Ace Front End](https://www.acefrontend.com/) - Front-end programming challenges. Results via text. integrated IDE
+* [AdventoOfCode](https://adventofcode.com/) - Programming challenges by season. No built-in IDE. Manual validation done by the user
+* [App Ideas](https://github.com/florinpop17/app-ideas) - Compiled challenges for you to test your knowledge and increase your portfolio
+* [Beecrowd](https://www.beecrowd.com.br/judge/en/login) - Back-end Programming, Mathematics and SQL Challenges. integrated IDE
+* [ChallengeRocket](https://challengerocket.com/) - Back-end Programming Challenges. integrated IDE
+* [Code Golf - StackExchange](https://codegolf.stackexchange.com/) - Community-to-community programming challenges, Snippet-only integrated IDE
+* [CodeForces](https://codeforces.com/) - Back-end Programming Challenges with compilation and testing done by the platform but without an integrated IDE
+* [CodePen Challenges](https://codepen.io/challenges) - Front-end Programming Challenges. integrated IDE
+* [CoderByte](https://coderbyte.com/) - Back-end Programming Challenges. integrated IDE
+* [CodeSignal](https://app.codesignal.com/) - Back-end Programming Challenges. integrated IDE
+* [CodeWars](https://www.codewars.com/) - Back-end Programming Challenges. integrated IDE
+* [Codier](https://codier.io/challenge) - Front-end Programming Challenges, analysis of results by the community. integrated IDE
+* [Codility](https://app.codility.com/) - Back-end Programming Challenges. integrated IDE
+* [Coding Games](https://www.codingame.com/) - Back-end programming challenges focused on games theme. integrated IDE
+* [CSS Battle](https://cssbattle.dev/) - Temporary CSS battles. integrated IDE
+* [DailyCodingProblem](https://www.dailycodingproblem.com/) - Backend Programming Challenges sent via email. Premium Troubleshooting
+* [Desafio333](https://github.com/codigofalado/desafio333) - Desafio333 is a SIMPLE bimonthly challenge with the aim of inviting the community to discover new tools
+* [DevChallenges.io](https://devchallenges.io/) - Site with responsive web projects, front-end and full-stack
+* [Edabit](https://edabit.com/) - Back-end Programming Challenges. integrated IDE
+* [Exercism.io](https://exercism.io/) - Back-end Programming Challenges. No built-in IDE. Requires CLI download.
+* [Flex Box Defense](http://www.flexboxdefense.com/) - Front-end Programming Challenge focused on the flex box property. Integrated IDE.
+* [Flex Box Froggy](https://flexboxfroggy.com/) - Front-end Programming Challenge focused on the flex box property. Integrated IDE.
+* [Front-End Challenges Club](https://piccalil.li/category/front-end-challenges-club) - Blog with front-end programming challenges
+* [Frontend Mentor](https://www.frontendmentor.io/) - Front-end Programming Challenges, community analysis of results, no integrated IDE
+* [HackerRank](https://www.hackerrank.com/) - Backend Programming Challenges. integrated IDE
+* [ProjectEuler](https://projecteuler.net/) - Back-end Programming Challenges focused on mathematical problems. integrated IDE
+* [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Back-end Programming Challenges with compilation and testing done by the platform but without integrated IDE
+* [TopCoder](https://arena.topcoder.com/) - Challenges and Back-end Programming Arena with integrated IDE
+
+## 🏨 Hosting
+* [1FreeHosting](http://www.1freehosting.com/) - Free website hosting with 100GB bandwidth
+* [Amazon Web Services](https://aws.amazon.com/) - Server rental service and other services
+* [BlueHost](https://www.bluehost.com/) - American web hosting company
+* [DigitalOcean](https://www.digitalocean.com/) - Dedicated and shared server rental
+* [DreamHost](https://www.dreamhost.com/) - High availability website hosting
+* [GoDaddy](https://br.godaddy.com/) - Shared and dedicated server rental company and domain registration
+* [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Google Server Rental Service
+* [Heroku](https://www.heroku.com/) - Free website hosting with support for NodeJS, Java, Ruby, PHP, Python, Go, Scala and Clojure
+* [HostGator](https://www.hostgator.com/) - Shared and dedicated hosting for websites and services
+* [Hostinger](https://www.hostinger.com/) - Website Hosting
+* [Hostoo](https://hostoo.io/) - Dedicated cloud computing website hosting
+* [InfinityFree](https://infinityfree.net/) - Completely free website hosting with PHP, MySQL
+* [iPage](https://www.ipage.com/) - Hosting of gringa websites with discounts for ads
+* [Netlify](https://www.netlify.com/) - Hosting for static websites that combines global deployment, continuous integration and automatic HTTPS
+* [One.com](https://www.one.com/) - General digital services (including website hosting)
+* [Surge](https://surge.sh/) - Free hosting for static pages
+* [Vercel](https://vercel.com/) - Free static and serverless website hosting
